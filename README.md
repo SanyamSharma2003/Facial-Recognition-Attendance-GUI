@@ -9,12 +9,14 @@ Kindly use "Visual Studio Code" to run this GUI Desktop App as it will be easier
 You will need the following:
 
 "pip install dlib"
+
 "pip install face-recognition"
 
 ## To Install the PyQt Libraries Dependencies and tools
 You will need the following:
 
 "pip install pyqt5"
+
 "pip install pyqt5-tools"
 
 NOTE: Use "Python 3.9" version in your PC or Desktop, it may give error while you are installing pyqt5-tools in your command prompt or in VSCode terminal for Python 3.10       and above versions.
