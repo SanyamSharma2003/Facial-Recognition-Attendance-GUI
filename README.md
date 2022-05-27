@@ -19,7 +19,7 @@ You will need the following:
 
 "pip install pyqt5-tools"
 
-NOTE: Use "Python 3.9" version in your PC or Desktop as it may give error while you are installing pyqt5-tools in your command prompt or in VSCode terminal for Python         3.10 and above versions.
+NOTE: Use "Python 3.9" version in your PC or Desktop as you may encounter error while you are installing pyqt5-tools in your command prompt or in VSCode terminal for           Python 3.10 and above versions.
 
 ## To Install the openCV
 "pip install opencv-python"
