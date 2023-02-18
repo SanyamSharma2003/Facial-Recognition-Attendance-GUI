@@ -1,5 +1,4 @@
-# Sanyam_Final_Project
-## FACIAL RECOGNITION ATTENDANCE GUI
+# FACIAL RECOGNITION ATTENDANCE GUI
 This is a Desktop Application on Face Recognition using Python, openCV and PyQt Designer for creating the GUI. This application captures your face in the camera and calculates its face-encodings and matches with the known faces-encodings and gives the output accordingly. Now if the known face want to clock-in or clock-out, he/she can clock-in or clock-out and the time for clock in and clock-out will be calculated and it will be updated in the Attendance.csv file(You can open this file in xl also). In the Attendance.csv file, we have name, time, status, i.e. we have clock-in time as well as clock-out time in the Attendence.csv file. I have explained the code in comments. Please go through the same for detailed understanding of the code.
 
 
